@@ -17,8 +17,9 @@ Algorithms are not limited to computers. They are like a set of step-by-step ins
 ## Languages 
 - C
 - C++
-- Python
+- C#
 - Java
-- Go
+- Python
 - Swift
+- Go
             
